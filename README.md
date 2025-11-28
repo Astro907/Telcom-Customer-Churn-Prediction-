@@ -243,22 +243,23 @@ After intervention:
 - Revenue saved: 98 × $2,000 = $196K
 
 Net benefit: $196K - $36K = $160K annually
-```
 
----
 
-### 📈 Total Business Impact
 
-| Strategy | Investment | Revenue Saved | Net Benefit | ROI |
-|----------|------------|---------------|-------------|-----|
-| Contract Incentives | $75K | $464K | $389K | 519% |
-| Early Intervention | $150K | $750K | $600K | 400% |
-| Bundled Services | $36K | $196K | $160K | 444% |
-| **TOTAL** | **$261K** | **$1.41M** | **$1.15M** | **440%** |
+## 💰 Total Business Impact
 
----
+| Strategy | Investment | Net Benefit | ROI |
+|----------|------------|-------------|-----|
+| Contract Incentives | $75K | $389K | 519% |
+| Early Intervention | $150K | $600K | 400% |
+| Bundled Services | $36K | $160K | 444% |
+| **TOTAL** | **$261K** | **$1.15M** | **440%** |
 
-## 🛠️ Technical Implementation
+
+
+
+
+## Technical Implementation
 
 ### Technologies Used
 - **Python 3.8+**
@@ -299,7 +300,6 @@ Net benefit: $196K - $36K = $160K annually
    - Precision-Recall trade-off
    - Business-focused metric selection (recall over accuracy)
 
----
 
 ## 📊 Project Structure
 
